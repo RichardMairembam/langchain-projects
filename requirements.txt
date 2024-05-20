@@ -1,0 +1,8 @@
+wikipedia
+numexpr
+google-search-results
+unstructured
+libmagic
+python-magic
+python-magic-bin
+sentence_transformers
